@@ -46,3 +46,46 @@ THEN I am able to successfully create, update, and delete data in my database
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+## Final Application
+![Video of e-commerce backend]()
+
+## Installation 
+* Clone repository from GitHub 
+* Open terminal and install use the following commands:
+`npm init`
+
+`npm install mysql2`
+
+`npm install sequelize`
+
+`npm install dotenv`
+
+## Usage
+
+To use the application use the following commands and follow the prompts:
+
+`mysql -u root -p`
+
+`source db/schema.sql`
+
+`quit`
+
+`npm run seed`
+  
+`npm start`
+
+## Credits
+* [NPM Documentation](https://www.npmjs.com/)
+* [MySQL package](https://www.npmjs.com/package/mysql)
+* [Node.js](https://nodejs.org/en/) 
+* [Insomnia](https://docs.insomnia.rest/)
+* [Sequelize](https://www.npmjs.com/package/sequelize)
+* [Express.js](https://expressjs.com/)
+* [Dotenv package](https://www.npmjs.com/package/dotenv)
+
+## License 
+ISC License
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
