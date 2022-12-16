@@ -47,7 +47,7 @@ THEN I am able to successfully create, update, and delete data in my database
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## Final Application
-![Video of e-commerce backend]()
+[Video of e-commerce backend](https://drive.google.com/file/d/12vhtEzMRe-2gBZ9Rrn0FE6y8TgjTLH4y/view?usp=sharing)
 
 ## Installation 
 * Clone repository from GitHub 
