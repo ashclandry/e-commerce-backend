@@ -5,6 +5,8 @@
 ## Description
 The purpose of this repository is to build the back end for an e-commerce site by taking the starter code from a working Express.js API and configuring it to use Sequelize to interact with a MySQL database.
 
+[Video of e-commerce backend](https://drive.google.com/file/d/12vhtEzMRe-2gBZ9Rrn0FE6y8TgjTLH4y/view?usp=sharing)
+
 ## Table of Contents 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
